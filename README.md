@@ -1,3 +1,5 @@
+[![Open in DevZero](https://assets.devzero.io/open-in-devzero.svg)](https://www.devzero.io/dashboard/recipes/new?repo-url=https://github.com/glossier/solidus_retail)
+
 # Solidus Retail
 
 [![Build Status][1]][2]
